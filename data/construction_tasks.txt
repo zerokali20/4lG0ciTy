@@ -1,0 +1,7 @@
+Foundation;Frame
+Frame;Windows
+Frame;Elevators
+Windows;Inspection
+Elevators;Inspection
+Inspection;Opening
+

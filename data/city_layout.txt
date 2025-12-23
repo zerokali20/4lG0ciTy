@@ -1,0 +1,5 @@
+CityHall;GrandHotel;5
+GrandHotel;Airport;12
+CityHall;Hospital;7
+Hospital;Airport;10
+

@@ -1,5 +1,6 @@
 # 4lG0ciTy
 
+
 4lGoCiTy is a comprehensive simulation that models city infrastructure management through advanced algorithmic concepts. Unlike standard library implementations, this project builds core data structures from scratch to solve realistic urban problems:
 
 - Citizen Registry: High-performance record management using AVL Trees (self-balancing) vs. standard BSTs.
@@ -12,4 +13,5 @@
 
 - Rapid Lookup: Custom Hash Table implementation with collision handling for instant building identification.
 
+---
 This project serves as a practical application of the entire Advanced Data Structures & Algorithms syllabus, bridging the gap between theoretical complexity analysis and real-world system design.
